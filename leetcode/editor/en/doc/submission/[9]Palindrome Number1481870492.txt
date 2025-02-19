@@ -1,0 +1,13 @@
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        original = str(x)
+        reverse = original[::-1]
+        print(original)
+        print(reverse)
+        if original == reverse:
+            return True
+        else:
+            return False
+
+# runtime:15 ms
+# memory:17.7 MB

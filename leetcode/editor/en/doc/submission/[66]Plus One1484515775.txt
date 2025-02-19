@@ -1,0 +1,32 @@
+class Solution:
+    ### 1. Iterative Approach with Carry Handling
+    def plusOne(self, digits: List[int]) -> List[int]:
+        # Start from the last digit and iterate backward
+        for i in range(len(digits) - 1, -1, -1):
+            if digits[i] < 9:
+                # If the current digit is less than 9, increment it
+                digits[i] += 1
+                return digits
+            else:
+                # If the current digit is 9, set it to 0
+                digits[i] = 0
+
+        # If all digits were 9, prepend a 1 to the array
+        return [1] + digits
+
+    ### 2. Conversion to Integer and Back
+    # def plusOne(self, digits: List[int]) -> List[int]:
+    #     digits_str = ''
+    #     for i in digits:
+    #         digits_str += str(i)
+    # 
+    #     digits_num = int(digits_str)
+    #     digits_num += 1
+    #     digits_str = str(digits_num)
+    #     ans = []
+    #     for i in digits_str:
+    #         ans.append(int(i))
+    #     return ans
+
+# runtime:0 ms
+# memory:17.7 MB

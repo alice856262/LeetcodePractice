@@ -1,0 +1,31 @@
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        list_int = []
+        for i in s:
+            if i == 'I':
+                j = 1
+            elif i == 'V':
+                j = 5
+            elif i == 'X':
+                j = 10
+            elif i == 'L':
+                j = 50
+            elif i == 'C':
+                j = 100
+            elif i == 'D':
+                j = 500
+            elif i == 'M':
+                j = 1000            
+            list_int.append(j)
+        ans = 0
+        length = len(list_int)
+        for i in range(length - 1):
+            j = list_int[i]
+            if list_int[i] >= list_int[i + 1]:
+                ans += j
+            else:
+                ans -= j
+        ans += list_int[length - 1]
+        return ans
+# runtime:48 ms
+# memory:16.6 MB

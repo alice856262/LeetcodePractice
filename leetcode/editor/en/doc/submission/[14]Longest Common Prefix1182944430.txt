@@ -1,0 +1,29 @@
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        first_str = strs[0]
+        ans_prefix = ''
+        temp = ''
+        min_temp_len = len(first_str)
+        if len(strs) <= 1:
+            ans_prefix = first_str
+        else:
+            for i in strs[1:]:
+                temp = ''
+                if len(first_str) >= len(i):
+                    for j in range(len(i)):
+                        if first_str[j] == i[j]:
+                            temp += first_str[j]
+                        else:
+                            break    
+                else:
+                    for j in range(len(first_str)):
+                        if first_str[j] == i[j]:
+                            temp += first_str[j]
+                        else:
+                            break
+                min_temp_len = min(min_temp_len, len(temp))
+                if len(temp) <= min_temp_len:
+                    ans_prefix = temp
+        return ans_prefix
+# runtime:28 ms
+# memory:16.6 MB
