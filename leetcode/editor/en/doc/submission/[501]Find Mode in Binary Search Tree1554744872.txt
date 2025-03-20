@@ -1,0 +1,53 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def findMode(self, root: Optional[TreeNode]) -> List[int]:
+        self.prev = None  # Tracks the previous node's value during in-order traversal
+        self.curr_count = 0  # Current frequency count for the ongoing value
+        self.max_count = 0  # Maximum frequency encountered so far
+        self.res = []  # List to store the mode(s)
+
+        def inorder(node: Optional[TreeNode]):
+            if not node:
+                return
+
+            # Traverse left subtree
+            inorder(node.left)
+
+            # Process current node:
+            # If this is the first node or a different value than the previous, reset count to 1
+            # Otherwise, increment the count
+            if self.prev is None or node.val != self.prev:
+                self.curr_count = 1
+            else:
+                self.curr_count += 1
+
+            # Update mode(s) based on the current count
+            if self.curr_count > self.max_count:
+                self.max_count = self.curr_count
+                self.res = [node.val]  # Start a new result list with the current value
+            elif self.curr_count == self.max_count:
+                # Append the current value only if it's not already the last added (avoids duplicates)
+                if not self.res or self.res[-1] != node.val:
+                    self.res.append(node.val)
+
+            # Update previous value and traverse right subtree
+            self.prev = node.val
+            inorder(node.right)
+
+        inorder(root)
+        return self.res
+
+# runtime:0 ms
+# memory:21.2 MB
+# total_testcases:
+# total_correct:
+# input_formatted:
+# expected_output:
+# code_output:
+# runtime_error:null
+# last_testcase:

@@ -938,6 +938,226 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[459]Repeated Substring Pattern.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[459]Repeated Substring Pattern.md" />
+              <option name="frontendQuestionId" value="leetcode.com459" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[459]Repeated Substring Pattern.py" />
+              <option name="titleSlug" value="repeated-substring-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[461]Hamming Distance.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[461]Hamming Distance.md" />
+              <option name="frontendQuestionId" value="leetcode.com461" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[461]Hamming Distance.py" />
+              <option name="titleSlug" value="hamming-distance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[463]Island Perimeter.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[463]Island Perimeter.md" />
+              <option name="frontendQuestionId" value="leetcode.com463" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[463]Island Perimeter.py" />
+              <option name="titleSlug" value="island-perimeter" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[476]Number Complement.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[476]Number Complement.md" />
+              <option name="frontendQuestionId" value="leetcode.com476" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[476]Number Complement.py" />
+              <option name="titleSlug" value="number-complement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[482]License Key Formatting.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[482]License Key Formatting.md" />
+              <option name="frontendQuestionId" value="leetcode.com482" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[482]License Key Formatting.py" />
+              <option name="titleSlug" value="license-key-formatting" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[485]Max Consecutive Ones.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[485]Max Consecutive Ones.md" />
+              <option name="frontendQuestionId" value="leetcode.com485" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[485]Max Consecutive Ones.py" />
+              <option name="titleSlug" value="max-consecutive-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[492]Construct the Rectangle.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[492]Construct the Rectangle.md" />
+              <option name="frontendQuestionId" value="leetcode.com492" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[492]Construct the Rectangle.py" />
+              <option name="titleSlug" value="construct-the-rectangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[495]Teemo Attacking.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[495]Teemo Attacking.md" />
+              <option name="frontendQuestionId" value="leetcode.com495" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[495]Teemo Attacking.py" />
+              <option name="titleSlug" value="teemo-attacking" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[496]Next Greater Element I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[496]Next Greater Element I.md" />
+              <option name="frontendQuestionId" value="leetcode.com496" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[496]Next Greater Element I.py" />
+              <option name="titleSlug" value="next-greater-element-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[500]Keyboard Row.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[500]Keyboard Row.md" />
+              <option name="frontendQuestionId" value="leetcode.com500" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[500]Keyboard Row.py" />
+              <option name="titleSlug" value="keyboard-row" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[501]Find Mode in Binary Search Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[501]Find Mode in Binary Search Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com501" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[501]Find Mode in Binary Search Tree.py" />
+              <option name="titleSlug" value="find-mode-in-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[504]Base 7.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[504]Base 7.md" />
+              <option name="frontendQuestionId" value="leetcode.com504" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[504]Base 7.py" />
+              <option name="titleSlug" value="base-7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[506]Relative Ranks.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[506]Relative Ranks.md" />
+              <option name="frontendQuestionId" value="leetcode.com506" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[506]Relative Ranks.py" />
+              <option name="titleSlug" value="relative-ranks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[507]Perfect Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[507]Perfect Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com507" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[507]Perfect Number.py" />
+              <option name="titleSlug" value="perfect-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[509]Fibonacci Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[509]Fibonacci Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com509" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[509]Fibonacci Number.py" />
+              <option name="titleSlug" value="fibonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[511]Game Play Analysis I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[511]Game Play Analysis I.md" />
+              <option name="frontendQuestionId" value="leetcode.com511" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[511]Game Play Analysis I.py" />
+              <option name="titleSlug" value="game-play-analysis-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[520]Detect Capital.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[520]Detect Capital.md" />
+              <option name="frontendQuestionId" value="leetcode.com520" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[520]Detect Capital.py" />
+              <option name="titleSlug" value="detect-capital" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[521]Longest Uncommon Subsequence I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[521]Longest Uncommon Subsequence I.md" />
+              <option name="frontendQuestionId" value="leetcode.com521" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[521]Longest Uncommon Subsequence I.py" />
+              <option name="titleSlug" value="longest-uncommon-subsequence-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[530]Minimum Absolute Difference in BST.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[530]Minimum Absolute Difference in BST.md" />
+              <option name="frontendQuestionId" value="leetcode.com530" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[530]Minimum Absolute Difference in BST.py" />
+              <option name="titleSlug" value="minimum-absolute-difference-in-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[541]Reverse String II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[541]Reverse String II.md" />
+              <option name="frontendQuestionId" value="leetcode.com541" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[541]Reverse String II.py" />
+              <option name="titleSlug" value="reverse-string-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[543]Diameter of Binary Tree.py">
           <value>
             <LeetcodeEditor>
@@ -946,6 +1166,72 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[543]Diameter of Binary Tree.py" />
               <option name="titleSlug" value="diameter-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[551]Student Attendance Record I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[551]Student Attendance Record I.md" />
+              <option name="frontendQuestionId" value="leetcode.com551" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[551]Student Attendance Record I.py" />
+              <option name="titleSlug" value="student-attendance-record-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[557]Reverse Words in a String III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[557]Reverse Words in a String III.md" />
+              <option name="frontendQuestionId" value="leetcode.com557" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[557]Reverse Words in a String III.py" />
+              <option name="titleSlug" value="reverse-words-in-a-string-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[559]Maximum Depth of N-ary Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[559]Maximum Depth of N-ary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com559" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[559]Maximum Depth of N-ary Tree.py" />
+              <option name="titleSlug" value="maximum-depth-of-n-ary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[561]Array Partition.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[561]Array Partition.md" />
+              <option name="frontendQuestionId" value="leetcode.com561" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[561]Array Partition.py" />
+              <option name="titleSlug" value="array-partition" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[563]Binary Tree Tilt.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[563]Binary Tree Tilt.md" />
+              <option name="frontendQuestionId" value="leetcode.com563" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[563]Binary Tree Tilt.py" />
+              <option name="titleSlug" value="binary-tree-tilt" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[566]Reshape the Matrix.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[566]Reshape the Matrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com566" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[566]Reshape the Matrix.py" />
+              <option name="titleSlug" value="reshape-the-matrix" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -960,6 +1246,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[575]Distribute Candies.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[575]Distribute Candies.md" />
+              <option name="frontendQuestionId" value="leetcode.com575" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[575]Distribute Candies.py" />
+              <option name="titleSlug" value="distribute-candies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[589]N-ary Tree Preorder Traversal.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[589]N-ary Tree Preorder Traversal.md" />
+              <option name="frontendQuestionId" value="leetcode.com589" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[589]N-ary Tree Preorder Traversal.py" />
+              <option name="titleSlug" value="n-ary-tree-preorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[58]Length of Last Word.py">
           <value>
             <LeetcodeEditor>
@@ -968,6 +1276,105 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[58]Length of Last Word.py" />
               <option name="titleSlug" value="length-of-last-word" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[590]N-ary Tree Postorder Traversal.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[590]N-ary Tree Postorder Traversal.md" />
+              <option name="frontendQuestionId" value="leetcode.com590" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[590]N-ary Tree Postorder Traversal.py" />
+              <option name="titleSlug" value="n-ary-tree-postorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[594]Longest Harmonious Subsequence.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[594]Longest Harmonious Subsequence.md" />
+              <option name="frontendQuestionId" value="leetcode.com594" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[594]Longest Harmonious Subsequence.py" />
+              <option name="titleSlug" value="longest-harmonious-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[596]Classes More Than 5 Students.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[596]Classes More Than 5 Students.md" />
+              <option name="frontendQuestionId" value="leetcode.com596" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[596]Classes More Than 5 Students.py" />
+              <option name="titleSlug" value="classes-more-than-5-students" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[598]Range Addition II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[598]Range Addition II.md" />
+              <option name="frontendQuestionId" value="leetcode.com598" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[598]Range Addition II.py" />
+              <option name="titleSlug" value="range-addition-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[599]Minimum Index Sum of Two Lists.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[599]Minimum Index Sum of Two Lists.md" />
+              <option name="frontendQuestionId" value="leetcode.com599" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[599]Minimum Index Sum of Two Lists.py" />
+              <option name="titleSlug" value="minimum-index-sum-of-two-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[605]Can Place Flowers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[605]Can Place Flowers.md" />
+              <option name="frontendQuestionId" value="leetcode.com605" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[605]Can Place Flowers.py" />
+              <option name="titleSlug" value="can-place-flowers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[607]Sales Person.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[607]Sales Person.md" />
+              <option name="frontendQuestionId" value="leetcode.com607" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[607]Sales Person.py" />
+              <option name="titleSlug" value="sales-person" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[610]Triangle Judgement.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[610]Triangle Judgement.md" />
+              <option name="frontendQuestionId" value="leetcode.com610" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[610]Triangle Judgement.py" />
+              <option name="titleSlug" value="triangle-judgement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[617]Merge Two Binary Trees.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[617]Merge Two Binary Trees.md" />
+              <option name="frontendQuestionId" value="leetcode.com617" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[617]Merge Two Binary Trees.py" />
+              <option name="titleSlug" value="merge-two-binary-trees" />
             </LeetcodeEditor>
           </value>
         </entry>
